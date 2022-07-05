@@ -7,7 +7,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/CenaMaX/MemeCoin-Web3
+  git clone [https://github.com/CenaMaX/MemeCoin-Web3](https://github.com/CenaMaX/MemeCoin-Web3.git)
 ```
 
 Go to the project directory
