@@ -1,0 +1,32 @@
+{
+  "name": "memecoin-web3",
+  "version": "0.1.0",
+  "private": true,
+  "author": {
+    "name": "CenaMaX"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CenaMaX/MemeCoin-Web3.git"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.9.3",
+    "@emotion/styled": "^11.9.3",
+    "@mui/material": "^5.8.7",
+    "ethers": "^5.6.9",
+    "next": "12.2.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hot-toast": "^2.2.0"
+  },
+  "devDependencies": {
+    "eslint": "8.19.0",
+    "eslint-config-next": "12.2.0"
+  }
+}
